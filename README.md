@@ -1,3 +1,11 @@
+!!! WARNING !!!
+
+Should be only used along with
+
+[Comgress64 VPN project](https://github.com/comgress64/vpn) and [Comgress64 VPN Frontend](https://github.com/comgress64/vpn_frontend
+)
+
+
 # vpn_api
 
 
